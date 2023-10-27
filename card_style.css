@@ -1,0 +1,51 @@
+
+  .flex-container {
+    display: flex;
+    background-color: rgb(172, 180, 189);
+    margin: 60px;
+    padding-bottom: 40px;
+    margin-bottom: 100px;
+  }
+  
+  
+  .avatar-img{
+    background-color:#FC7169;
+      height: 50px;
+      width: 50px;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 10px;
+  }
+  
+  .student-name{
+    padding: 5px;
+  }
+  .card-details{
+  
+  background-color: rgb(228, 90, 131);
+  
+  margin: 20px;
+  color: aqua;
+  padding: 15px;
+  text-align: right;
+  
+ 
+}
+.card-details button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 12px;
+  
+}
+
+
+
